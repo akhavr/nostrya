@@ -22,7 +22,7 @@ requests, issues, and discussions.
 To make it all work together, there should be
 
 - presentation layer: say web interface for issues and PR's
-- data availability layer that would guarantie that there's a copy of
+- data availability layer that would guarantee that there's a copy of
   repository somewhere
 - authentication and communication layer to identify users and message
   them
