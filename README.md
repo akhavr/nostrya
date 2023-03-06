@@ -26,4 +26,5 @@ To make it all work together, there should be
   repository somewhere
 - authentication and communication layer to identify users and message
   them
-
+- bridges to connect to existing platforms (github, gitlab, gitea,
+  etc)
