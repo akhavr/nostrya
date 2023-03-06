@@ -33,3 +33,16 @@ Example of UI
 
 ![List of
 bugs](https://user-images.githubusercontent.com/2120/223275701-8ff65ead-7624-4563-bdee-817198681d3c.png)
+
+Loose list of functions:
+
+- login with nostr
+- create project
+- delete project
+- create issue
+- comment on issue
+- close issue
+- create PR
+- comment on PR
+- merge PR
+- close PR
