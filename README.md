@@ -8,6 +8,7 @@ It is developed on the grounds of:
 - minimalism
 - reuse of existing code and projects as much as possible
 - censorship resistance
+- no change to underlying protocols unless absolutely necessary
 
 ## Fundamentals
 
